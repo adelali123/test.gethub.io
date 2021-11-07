@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /admincp/
+Disallow: /class/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /js/
+Disallow: /nav/
+Disallow: /style/
